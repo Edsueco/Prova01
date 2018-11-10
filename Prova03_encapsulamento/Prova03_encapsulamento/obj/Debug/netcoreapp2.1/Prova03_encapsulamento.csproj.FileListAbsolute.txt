@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/bin/Debug/netcoreapp2.1/Prova03_encapsulamento.deps.json
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/bin/Debug/netcoreapp2.1/Prova03_encapsulamento.runtimeconfig.json
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/bin/Debug/netcoreapp2.1/Prova03_encapsulamento.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/bin/Debug/netcoreapp2.1/Prova03_encapsulamento.dll
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/bin/Debug/netcoreapp2.1/Prova03_encapsulamento.pdb
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.AssemblyInfo.cs
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.dll
+/Users/aluno/Projects/Prova03_encapsulamento/Prova03_encapsulamento/obj/Debug/netcoreapp2.1/Prova03_encapsulamento.pdb

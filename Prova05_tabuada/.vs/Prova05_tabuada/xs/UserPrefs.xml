@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0ADE9A24-C122-47EE-A9A0-5D9B044845AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prova05_tabuada/Program.cs">
+    <Files>
+      <File FileName="Prova05_tabuada/Program.cs" Line="16" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Prova05__tabuada PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

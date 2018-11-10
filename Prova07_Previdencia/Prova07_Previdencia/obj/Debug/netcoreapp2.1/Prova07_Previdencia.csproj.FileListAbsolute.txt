@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/bin/Debug/netcoreapp2.1/Prova07_Previdencia.deps.json
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/bin/Debug/netcoreapp2.1/Prova07_Previdencia.runtimeconfig.json
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/bin/Debug/netcoreapp2.1/Prova07_Previdencia.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/bin/Debug/netcoreapp2.1/Prova07_Previdencia.dll
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/bin/Debug/netcoreapp2.1/Prova07_Previdencia.pdb
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.AssemblyInfo.cs
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.dll
+/Users/aluno/Projects/Prova07_Previdencia/Prova07_Previdencia/obj/Debug/netcoreapp2.1/Prova07_Previdencia.pdb

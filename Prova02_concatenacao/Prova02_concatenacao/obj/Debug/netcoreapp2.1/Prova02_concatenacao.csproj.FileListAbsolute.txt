@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/bin/Debug/netcoreapp2.1/Prova02_concatenacao.deps.json
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/bin/Debug/netcoreapp2.1/Prova02_concatenacao.runtimeconfig.json
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/bin/Debug/netcoreapp2.1/Prova02_concatenacao.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/bin/Debug/netcoreapp2.1/Prova02_concatenacao.dll
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/bin/Debug/netcoreapp2.1/Prova02_concatenacao.pdb
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.AssemblyInfo.cs
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.dll
+/Users/aluno/Projects/Prova02_concatenacao/Prova02_concatenacao/obj/Debug/netcoreapp2.1/Prova02_concatenacao.pdb

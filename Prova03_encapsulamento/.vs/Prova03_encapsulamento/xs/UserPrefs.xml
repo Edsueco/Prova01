@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B8B0EAC0-4366-4C85-AB66-D8CF5C3A9242}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prova03_encapsulamento/Program.cs">
+    <Files>
+      <File FileName="Prova03_encapsulamento/Program.cs" Line="4" Column="1" />
+      <File FileName="Prova03_encapsulamento/Animal.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prova03__encapsulamento PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

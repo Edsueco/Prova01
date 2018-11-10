@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{003C915D-79C1-48F4-9099-89D66F564CA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prova02_concatenacao/Program.cs">
+    <Files>
+      <File FileName="Prova02_concatenacao/Program.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Prova02__concatenacao PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/bin/Debug/netcoreapp2.1/Prova01_Soma.deps.json
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/bin/Debug/netcoreapp2.1/Prova01_Soma.runtimeconfig.json
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/bin/Debug/netcoreapp2.1/Prova01_Soma.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/bin/Debug/netcoreapp2.1/Prova01_Soma.dll
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/bin/Debug/netcoreapp2.1/Prova01_Soma.pdb
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.AssemblyInfo.cs
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.dll
+/Users/aluno/Projects/Prova01_Soma/Prova01_Soma/obj/Debug/netcoreapp2.1/Prova01_Soma.pdb

@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.AssemblyInfo.cs
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/bin/Debug/netcoreapp2.1/Prova06_Cliente.deps.json
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/bin/Debug/netcoreapp2.1/Prova06_Cliente.runtimeconfig.json
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/bin/Debug/netcoreapp2.1/Prova06_Cliente.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/bin/Debug/netcoreapp2.1/Prova06_Cliente.dll
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/bin/Debug/netcoreapp2.1/Prova06_Cliente.pdb
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.dll
+/Users/aluno/Projects/Prova06_Cliente/Prova06_Cliente/obj/Debug/netcoreapp2.1/Prova06_Cliente.pdb

@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/bin/Debug/netcoreapp2.1/Prova04_letras_maiuscula.deps.json
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/bin/Debug/netcoreapp2.1/Prova04_letras_maiuscula.runtimeconfig.json
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/bin/Debug/netcoreapp2.1/Prova04_letras_maiuscula.runtimeconfig.dev.json
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/bin/Debug/netcoreapp2.1/Prova04_letras_maiuscula.dll
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/bin/Debug/netcoreapp2.1/Prova04_letras_maiuscula.pdb
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.AssemblyInfo.cs
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.dll
+/Users/aluno/Projects/Prova04_letras_maiuscula/Prova04_letras_maiuscula/obj/Debug/netcoreapp2.1/Prova04_letras_maiuscula.pdb
